@@ -28,7 +28,7 @@
 
 роут "api/v1/elements-by-version/"
   
-Требует передачи параметров GET запроса вида "?short_title=<short_title>&version=<version>"
+Требует передачи параметров GET запроса вида "?short_title=<short_title>&version=<versiоn>"
 
 Выводит список элементов справочника с указанным <short_title> 
 Если <version> указана, то выбирается справочник указанной версии
